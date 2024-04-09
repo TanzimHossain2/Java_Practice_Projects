@@ -3,7 +3,7 @@ import java.io.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import javax.swing.event.*;;
+import javax.swing.event.*;
 
 public class ReadServerFile extends JFrame {
     private JTextField enter;
